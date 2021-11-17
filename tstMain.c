@@ -52,6 +52,7 @@ void main()
 	}
 	
 */
+	printf("hello, world!\n");
 	printf("the result is %d\n",!(1 & 0));
 	sleep(3);
 	
